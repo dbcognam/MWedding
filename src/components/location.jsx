@@ -103,23 +103,21 @@ const Location = () => {
         className="root_daum_roughmap root_daum_roughmap_landing"
       ></Map>
       <Content>
-        대구 수성구 두산동 888-2번지
+        서울특별시 구로구 새말로 97 
         <br />
-        호텔수성 수성스퀘어 3층 피오니홀
+        신도림테크노마트 7층 다이너스티 홀
         <br />
+        주차 수용 대수 : 2500대 / 무료3시간
         <br />
         <Title>버스 이용시</Title>
         <br />
         <br />
-        410-1, 401 호텔수성 앞 하차
-        <br />
-        수성1-1, 수성3-1, 814 TBC방송국 앞 하차
-        <br />
+        2호선 신도림역 / 3번출구 / 테크노마트 지하연결 통로        
         <br />
         <Title>지하철 이용시</Title>
+        <br />        
         <br />
-        <br />
-        3호선 수성못역 하차 (도보 10분)
+        2호선 신도림역 / 3번출구 / 테크노마트 지하연결 통로        
       </Content>
     </Wrapper>
   );
